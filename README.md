@@ -14,4 +14,4 @@ Therefore if T is at 2.0 in the provider and Consumer is only using T at 1.0 how
 wire the two together?
 
 
-Please read licenc files in any folder, they will likely apply to that folder and any sub-folders.
+Please read licence files in any folder, they will likely apply to that folder and any sub-folders.
